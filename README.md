@@ -154,44 +154,11 @@ status: Actively seeking opportunities
 
 ---
 
-## 💡 **DEVELOPER PROFILE**
-
-<div align="center">
-
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-class BipinJoseph:
-    """
-    🚀 AI/ML Student & Developer Profile
-    """
-    def __init__(self):
-        self.name = "Bipin Joseph"
-        self.role = "MCA AI/ML Student"
-        self.location = "Kerala, India 🇮🇳"
-        self.motto = "Building quietly. Learning loudly."
-        
-    def get_current_focus(self):
-        return {
-            "🤖 AI/ML": ["Generative AI", "LLM Integration", "ML Pipelines"],
-            "☁️ Cloud": ["MLOps", "Model Deployment", "Scalable Systems"],
+"MLOps", "Model Deployment", "Scalable Systems"],
             "🏗️ Development": ["Full-Stack", "API Design", "System Architecture"],
             "📚 Learning": ["Prompt Engineering", "AI Products", "Cloud Native"]
         }
-    
-    def get_tech_stack(self):
-        return {
-            "languages": ["Python 🐍"],
-            "frameworks": ["Django", "Flask", "TensorFlow", "scikit-learn"],
-            "databases": ["PostgreSQL"],
-            "tools": ["Docker", "Git", "GitHub Actions", "VS Code"],
-            "specializations": ["Machine Learning", "AI Integration", "System Design"]
-        }
-    
-    def career_objective(self):
-        return "Seeking opportunities to apply AI/ML expertise in innovative projects"
-
+   
 # Initialize profile
 developer = BipinJoseph()
 print("🚀 Ready to build the future with AI!")
