@@ -27,7 +27,7 @@
 name: Bipin Joseph
 role: MCA AI/ML Student
 specialization: Artificial Intelligence & Machine Learning
-location: Kanayannur, Kerala, India
+location: Kerala, India
 philosophy: "Making AI useful, not just impressive"
 status: Actively seeking opportunities
 ```
