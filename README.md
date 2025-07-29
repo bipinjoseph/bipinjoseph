@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hi, I'm Bipin Joseph
+🎓 MCA in AI & ML | 🤖 AI/ML Enthusiast | ⚙️ MLOps Learner | 🔬 Exploring GenAI
 
-<!--
-**bipinjoseph/bipinjoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring AI practitioner focused on turning data into decisions and prototypes into real-world systems. I work with machine learning models, GenAI tools, and MLOps pipelines to build intelligent solutions that matter.
 
-Here are some ideas to get you started:
+🔭 Currently working on: ML model deployments and GenAI apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Learning: Deep Learning, CI/CD for ML, and AI product strategy
+
+🌱 Interests: AI for social good, ethical ML, automation
+
+🛠️ Tech Stack
+
+
+
+
+
+📌 Projects
+🧠 Weather Prediction using Ridge Regression
+
+🏦 PayRupee – A secure digital banking system
+
+🎓 Student Profile Management – CGPA automation and reporting
+
+📈 GitHub Stats
+
+
+📫 Connect with me
